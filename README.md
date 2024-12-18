@@ -1,6 +1,8 @@
 # HRNPCDialogue
 We’re excited to introduce HRNPCDialogue, an innovative and dynamic NPC interaction script for FiveM! Whether you're running an immersive roleplay server  experiences, HRNPCDialogue empowers you to create engaging, interactive dialogues with NPCs. This script offers seamless integration, a customizable web interface, and a user-friendly approach to bringing NPCs to life in your FiveM server.
 
+---
+
 # Features
 - Customizable Dialogue Options: Easily define NPC dialogues, questions, and responses to suit your server’s storylines and themes.
 
@@ -15,6 +17,8 @@ We’re excited to introduce HRNPCDialogue, an innovative and dynamic NPC intera
 - Ease of Use: Straightforward setup with detailed instructions for seamless integration.
 
 - Get ready to enhance player engagement and transform NPC interactions on your FiveM server with HRNPCDialogue!
+
+---
 
 # Download
 https://github.com/HRScripts/HRNPCDialog/downloads/releases/latest/download/HRNPCDialogue.rar
